@@ -15,7 +15,6 @@ I mostly build things in **Swift** and **TypeScript**. I care about type safety,
 - [ai-kit](https://github.com/jcfontecha/ai-kit) — Reusable building blocks for AI integrations (Swift)
 - [notes-cli](https://github.com/jcfontecha/notes-cli) — Read, create, search, and manage Apple Notes from the command line
 - [xcb-cli](https://github.com/jcfontecha/xcb-cli) — CLI tooling for Xcode workflows
-- [tiptap-markdown](https://github.com/jcfontecha/tiptap-markdown) — Markdown extension for Tiptap
 
 ## Find me
 
