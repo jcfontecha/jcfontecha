@@ -6,7 +6,7 @@ I mostly build things in **Swift** and **TypeScript**. I care about type safety,
 
 ## What I'm working on
 
-- [Slate](https://useslate.app) — an AI-powered writing & video editing app (Next.js + Swift)
+- Building tools for content creators (Next.js + Swift)
 - M365 Copilot for iOS at Microsoft
 
 ## Some projects
