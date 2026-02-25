@@ -23,8 +23,6 @@
 - [ai-kit](https://github.com/jcfontecha/ai-kit) — reusable building blocks for AI integrations and experimentation
 - [markdown-editor-ios](https://github.com/jcfontecha/markdown-editor-ios) — a Swift/iOS markdown editor implementation experience and UI
 - [xcb-cli](https://github.com/jcfontecha/xcb-cli) — command-line tooling to accelerate day-to-day workflows
-- [gemini-cli](https://github.com/jcfontecha/gemini-cli) — terminal-first AI agent for Gemini-powered workflows
-- [prompter](https://github.com/jcfontecha/prompter) — lightweight app for turning prompts into structured tasks
 - [tiptap-markdown](https://github.com/jcfontecha/tiptap-markdown) — markdown extension for the Tiptap editor ecosystem
 
 ## Tech Stack
