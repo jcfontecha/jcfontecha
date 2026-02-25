@@ -12,10 +12,10 @@ I mostly build things in **Swift** and **TypeScript**. I care about type safety,
 ## Some projects
 
 - [markdown-editor-ios](https://github.com/jcfontecha/markdown-editor-ios) — Swift/iOS markdown editor
-- [lexical-ios](https://github.com/jcfontecha/lexical-ios) — Lexical text editor framework ported to Swift/TextKit
+- [ai-kit](https://github.com/jcfontecha/ai-kit) — Reusable building blocks for AI integrations (Swift)
+- [notes-cli](https://github.com/jcfontecha/notes-cli) — Read, create, search, and manage Apple Notes from the command line
 - [xcb-cli](https://github.com/jcfontecha/xcb-cli) — CLI tooling for Xcode workflows
 - [tiptap-markdown](https://github.com/jcfontecha/tiptap-markdown) — Markdown extension for Tiptap
-- [deepwork](https://github.com/jcfontecha/deepwork) — Deep work planner (Swift)
 
 ## Find me
 
